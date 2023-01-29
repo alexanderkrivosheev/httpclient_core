@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/httpclient_core/.vs
+/httpclient_core/Weather.Models/bin
+/httpclient_core/Weather.Models/obj
+/httpclient_core/Weather.WeatherHttpClient/bin
+/httpclient_core/Weather.WeatherHttpClient/obj
+/httpclient_core/Weather.WebApi/bin/Debug/net6.0
+/httpclient_core/Weather.WebApi/obj
+/httpclient_core/WorkerService/bin/Debug/net6.0
+/httpclient_core/WorkerService/bin/Release/net6.0/publish
+/httpclient_core/WorkerService/bin/Release/net6.0/runtimes/win/lib/net6.0
+/httpclient_core/WorkerService/bin/Release/net6.0
+/httpclient_core/WorkerService/obj
+/httpclient_core/WorkerService/Properties/PublishProfiles
